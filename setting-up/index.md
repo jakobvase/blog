@@ -39,6 +39,8 @@ I want to use the following stuff:
 - [Graphql](https://graphql.org) for communication between things, if
   applicable.
 - [Prettier](https://prettier.io) for formatting text and code.
+- [Kubernetes](https://kubernetes.io/) and [docker](https://www.docker.com/) if
+  applicable.
 
 The journal:
 
