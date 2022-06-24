@@ -20,7 +20,7 @@ I want:
 
 Other things I want:
 
-- Email that lives on my domain, so you can contact me.
+- Email that lives on my domain, so you can contact me - done!
 - To be able to run programs in different programming languages on the server,
   so I can have my own little army of webservices.
 - I don't want to host the website myself. I believe it is silly to host your
@@ -47,3 +47,6 @@ The journal:
 1. [Beginning](./begin.md)
 2. [Hosting problems](./hosting-problems.md)
 3. [Mail server](./mail-server.md)
+4. [DNS providers](./dns-providers.md)
+5. [Domain names](./domain-names.md)
+6. [DNS records](./dns-records.md)

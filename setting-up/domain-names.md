@@ -2,7 +2,7 @@
 
 2022-06-18
 
-[Previous](./dns-providers.md). [Next](?).
+[Previous](./dns-providers.md). [Next](dns-records.md).
 
 Looking at domain names. I booked vase.art, but other interesting ones are
 
