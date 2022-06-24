@@ -2,7 +2,7 @@
 
 2022-06-11
 
-[Previous](./hosting-problems.md)
+[Previous](./hosting-problems.md). [Next](./dns-providers.md).
 
 I want to have a mail server for emails on my domain. This is easy to set up
 with
