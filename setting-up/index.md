@@ -16,7 +16,7 @@ I want:
 - Some way for people to subscribe to it all.
 - Some way for people to comment on the stuff.
 - What I have done myself, in programming, learning, and life.
-- A now page (see [https://nownownow.com]).
+- A now page (see [https://nownownow.com]) - done!
 
 Other things I want:
 
@@ -26,6 +26,9 @@ Other things I want:
 - I don't want to host the website myself. I believe it is silly to host your
   own stuff, when it's much better for the planet to focus that kind of thing
   elsewhere.
+- I want to make sure that I can access my email and my passwords without
+  anything else except for my phone number - in case I lose my phone and
+  computer in a fire!
 
 I want to use the following stuff:
 
